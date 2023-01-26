@@ -1,0 +1,14 @@
+cbb3f5f2c9ec348ea01f22668b6e7cc8 *DESCRIPTION
+bf1edaa265f5f65c9ba5dd4f47e95d57 *LICENSE
+a44bcf7c809b5799f883de23fcf65c2d *NAMESPACE
+603d77fdd2600203d7e76a0e9c345351 *R/neatr.R
+1378fccc4b89a9ed8e65ff800b6e13c1 *R/src.R
+8472f30c53e6aa6a039009bda3d42e91 *man/ndate.Rd
+626120ecaafb60e6f8a50d4e498d24c1 *man/nday.Rd
+dff92f3abe4ee182d83844167e01b849 *man/nnumber.Rd
+1c4ca93eb92527d3a9ac1d841feabe36 *man/npercent.Rd
+4d734a08d048c25229cbd5c96fca5fc8 *man/nstring.Rd
+8a4721d0eb7af0a4373002c95fd4ed99 *man/ntimestamp.Rd
+94079e7327791672e7f92a64bab2c34d *man/reexports.Rd
+8d49eb6f859725d0f9b1d8d8ddb48015 *tests/testthat.R
+62f62d35b9dc60affb5ba1263583256c *tests/testthat/tests.R
