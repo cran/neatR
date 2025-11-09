@@ -1,7 +1,7 @@
 Package: neatR
 Type: Package
 Title: Neat Data for Presentation
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: c(
     person("Shivaprakash", "Suresh",
             role = c("aut", "cre", "cph"),
@@ -15,12 +15,12 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Imports: data.table, magrittr, tools
 Suggests: knitr, rmarkdown, testthat (>= 3.0.0)
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.3
 Config/testthat/edition: 3
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2023-03-23 04:12:10 UTC; shiva
+Packaged: 2025-11-09 06:37:49 UTC; shiva
 Author: Shivaprakash Suresh [aut, cre, cph]
 Maintainer: Shivaprakash Suresh <dswithai@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-03-23 04:30:02 UTC
+Date/Publication: 2025-11-09 10:00:02 UTC
